@@ -1,4 +1,51 @@
-## Hi there 👋
+## # Привет! 👋
+Я **Кристина (DragonFortune)** — Java backend-разработчик.  
+Работаю с микросервисами, автоматизацией, метриками.  
+Этот профиль — моё портфолио и витрина навыков.
+
+---
+
+## 🧰 Технологии и инструменты
+
+![Java](https://img.shields.io/badge/Java-17-orange)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
+![Kotlin](https://img.shields.io/badge/Kotlin-1.×-blueviolet)  
+![Hibernate / JPA](https://img.shields.io/badge/Hibernate-JPA-blue)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)  
+![JUnit5](https://img.shields.io/badge/JUnit5-testing-red)  
+![Mockito](https://img.shields.io/badge/Mockito-mocking-yellow)  
+![Docker](https://img.shields.io/badge/Docker-containers-blue)  
+![Prometheus](https://img.shields.io/badge/Prometheus-metrics-orange)  
+![Grafana](https://img.shields.io/badge/Grafana-monitoring-yellow)
+
+---
+
+## 🎯 О чём я
+
+- Постоянно развиваюсь в области бэкенд-архитектуры
+- Алгоритмы и структуры данных — люблю решать задачи и оптимизировать
+- Автоматизация, CI/CD, мониторинг — важно не только написать, но и поддерживать код
+- Читаю и практикую шаблоны проектирования, чистую архитектуру
+
+---
+
+## 📈 Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonFortune&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonFortune&layout=compact&theme=radical)
+
+---
+
+## 📬 Контакты
+
+- 💼 LinkedIn: *тут ссылка, если есть*
+- ✉️ Email: *тут почта, если готова её показывать*
+- 📫 GitHub: [https://github.com/DragonFortune](https://github.com/DragonFortune)
+
+---
+
+Спасибо, что заглянула! 😊
+
 
 <!--
 **DragonFortune/DragonFortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
