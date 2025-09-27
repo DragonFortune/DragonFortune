@@ -7,8 +7,7 @@
 
 ## 🧰 Технологии и инструменты
 
-![Java](https://img.shields.io/badge/Java-17-orange)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
+![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.×-blueviolet)  
 ![Hibernate / JPA](https://img.shields.io/badge/Hibernate-JPA-blue)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)  
@@ -31,8 +30,7 @@
 
 ## 📈 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonFortune&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonFortune&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonFortune&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=DragonFortune&theme=radical)
 ---
 
