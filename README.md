@@ -8,14 +8,11 @@
 ## 🧰 Технологии и инструменты
 
 ![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
-![Kotlin](https://img.shields.io/badge/Kotlin-1.×-blueviolet)  
-![Hibernate / JPA](https://img.shields.io/badge/Hibernate-JPA-blue)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)  
-![JUnit5](https://img.shields.io/badge/JUnit5-testing-red)  
-![Mockito](https://img.shields.io/badge/Mockito-mocking-yellow)  
+![Hibernate / JPA](https://img.shields.io/badge/Hibernate-JPA-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)  
+![JUnit5](https://img.shields.io/badge/JUnit5-testing-red) ![Mockito](https://img.shields.io/badge/Mockito-mocking-yellow)  
 ![Docker](https://img.shields.io/badge/Docker-containers-blue)  
-![Prometheus](https://img.shields.io/badge/Prometheus-metrics-orange)  
-![Grafana](https://img.shields.io/badge/Grafana-monitoring-yellow)
+![Prometheus](https://img.shields.io/badge/Prometheus-metrics-orange) ![Grafana](https://img.shields.io/badge/Grafana-monitoring-yellow)  
+![Kotlin](https://img.shields.io/badge/Kotlin-1.×-blueviolet)
 
 ---
 
@@ -37,12 +34,12 @@
 ## 📬 Контакты
 
 - 💼 LinkedIn: *тут ссылка, если есть*
-- ✉️ Email: *тут почта, если готова её показывать*
+- ✉️ Email: dragonfartune@gmail.com
 - 📫 GitHub: [https://github.com/DragonFortune](https://github.com/DragonFortune)
 
 ---
 
-Спасибо, что заглянула! 😊
+Спасибо, что заглянули! 😊
 
 
 <!--
