@@ -1,27 +1,30 @@
-##
+## 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
 </div>
-<div id="badges" align="center" style="margin-top: 20px;">
+
+<div id="badges" align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://github.com/DragonFortune">
     <img src="https://img.shields.io/badge/GitHub-282c34?style=for-the-badge&logo=github&logoColor=61afef" 
-            alt="GitHub Badge" style="margin: 0 8px;"/>
+         alt="GitHub Badge" style="margin: 0 10px;"/>
   </a>
   <a href="https://t.me/morelia_carinata">
     <img src="https://img.shields.io/badge/Telegram-282c34?style=for-the-badge&logo=telegram&logoColor=61afef" 
-            alt="Telegram Badge" style="margin: 0 8px;"/>
+         alt="Telegram Badge" style="margin: 0 10px;"/>
   </a>
   <a href="mailto:dragonfartune@gmail.com">
     <img src="https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail&logoColor=c678dd" 
-            alt="Email Badge" style="margin: 0 8px;"/>
+         alt="Email Badge" style="margin: 0 10px;"/>
   </a>
 </div>
 
 ---
+
 <h1 align="center">Привет 👋 Я DragonFortune</h1>
 <h3 align="center">Backend Developer • Java | Spring | Microservices</h3>
 
 ---
+
 ## 🧰 Технологии и инструменты
 
 ![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
@@ -35,27 +38,27 @@
 
 ## 🎯 Обо мне
 
-💡 Интересуюсь архитектурой, gameGev и качеством кода.  
+💡 Интересуюсь архитектурой, gameDev и качеством кода.  
 🌱 Активно изучаю алгоритмы, паттерны проектирования и оптимизацию.
 
 ---
 
 ## 📈 Статистика
 
-[//]: # (![LeetCode Stats]&#40;https://leetcard.jacoblin.cool/ArgRbbB3K2?theme=dark&font=Montserrat&#41;)
-[//]: # (![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=DragonFortune&show_icons=true&theme=onedark&#41;)
-<h4 align="center"> ![GitHub Streak](https://streak-stats.demolab.com?user=DragonFortune&theme=onedark)</h4> 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DragonFortune&theme=onedark" alt="GitHub Streak"/>
+</div>
+
 ---
----
+
 ## 📬 Контакты
 
-- ✉️ Email: dragonfartune@gmail.com
-- 📫 GitHub: [https://github.com/DragonFortune](https://github.com/DragonFortune)
+- ✉️ Email: [dragonfartune@gmail.com](mailto:dragonfartune@gmail.com)
+- 💻 GitHub: [https://github.com/DragonFortune](https://github.com/DragonFortune)
 
 ---
-<h3 align="center"> Спасибо, что заглянули! 😊</h3>
 
-
+<h3 align="center">Спасибо, что заглянули! 😊</h3>
 
 <!--
 **DragonFortune/DragonFortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
