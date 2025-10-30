@@ -1,7 +1,9 @@
 ## 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
+<div align="center">
+  <img src="assets/banner.jpg" alt="Banner" width="800"/>
 </div>
+
+<div></div>
 
 <div id="badges" align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://github.com/DragonFortune">
@@ -20,45 +22,80 @@
 
 ---
 
-<h1 align="center">Привет 👋 Я DragonFortune</h1>
+<h1 align="center">Hey dev! 👋 Welcome to my profile</h1>
 <h3 align="center">Backend Developer • Java | Spring | Microservices</h3>
 
 ---
 
-## 🧰 Технологии и инструменты
-
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x/3.x-brightgreen)  
-![Hibernate / JPA](https://img.shields.io/badge/Hibernate-JPA-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-lightblue)  
-![JUnit5](https://img.shields.io/badge/JUnit5-testing-red) ![Mockito](https://img.shields.io/badge/Mockito-mocking-yellow)  
-![Docker](https://img.shields.io/badge/Docker-containers-blue)  
-![Prometheus](https://img.shields.io/badge/Prometheus-metrics-orange) ![Grafana](https://img.shields.io/badge/Grafana-monitoring-yellow)  
-![Kotlin](https://img.shields.io/badge/Kotlin-1.×-blueviolet)
+## 🎯 About me
 
 ---
 
-## 🎯 Обо мне
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div>
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+      <li>🌎 I’m from Russia</li>
+      <li>💡 Love programming and gaming</li>
+      <li>🧠 Learning new practices, libraries and frameworks</li>
+      <li>🌱 Strive for a clean architecture and high-quality code</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
+  </div>
+</div>
 
-💡 Интересуюсь архитектурой, gameDev и качеством кода.  
-🌱 Активно изучаю алгоритмы, паттерны проектирования и оптимизацию.
+
+
+## 📈 Statistics
 
 ---
-
-## 📈 Статистика
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DragonFortune&theme=onedark" alt="GitHub Streak"/>
 </div>
 
----
-
-## 📬 Контакты
-
-- ✉️ Email: [dragonfartune@gmail.com](mailto:dragonfartune@gmail.com)
-- 💻 GitHub: [https://github.com/DragonFortune](https://github.com/DragonFortune)
+## 🧰 Technologies and tools
 
 ---
 
-<h3 align="center">Спасибо, что заглянули! 😊</h3>
+
+
+<p align="center">
+  <div align="center" style="margin-top: 20px; background-color:#282c34; border: 2px solid #f8f8f2; border-radius: 12px; ">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" title="Spring Boot" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" title="Prometheus" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" title="Grafana" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" title="Kotlin" style="margin: 15px;"/>
+</div>
+
+
+## 📬 Socials
+
+---
+
+<div  style="margin-top: 20px;">
+  <a href="mailto:dragonfartune@gmail.com" style="margin: 15px;">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Email"/>
+  </a>
+  <a href="https://github.com/DragonFortune" style="margin: 15px;">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40" title="GitHub"/>
+  </a>
+  <a href="https://t.me/morelia_carinata" style="margin: 15px;">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" title="Telegram"/>
+  </a>
+</div>
+
+[//]: # (- ✉️ Email: [dragonfartune@gmail.com]&#40;mailto:dragonfartune@gmail.com&#41;)
+
+[//]: # (- 💻 GitHub: [https://github.com/DragonFortune]&#40;https://github.com/DragonFortune&#41;)
+
+---
+
+<h3 align="center">Thanks for stopping by! 😊</h3>
 
 <!--
 **DragonFortune/DragonFortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
