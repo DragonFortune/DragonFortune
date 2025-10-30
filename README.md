@@ -1,6 +1,6 @@
 ## 
 <div align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="800"/>
+  <img src="assets/banner.jpg" alt="Banner" width="700" height="300"/>
 </div>
 
 <div></div>
@@ -8,15 +8,15 @@
 <div id="badges" align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://github.com/DragonFortune">
     <img src="https://img.shields.io/badge/GitHub-282c34?style=for-the-badge&logo=github&logoColor=61afef" 
-         alt="GitHub Badge" style="margin: 0 10px;"/>
+         alt="GitHub Badge" style="margin: 20px;"/>
   </a>
   <a href="https://t.me/morelia_carinata">
     <img src="https://img.shields.io/badge/Telegram-282c34?style=for-the-badge&logo=telegram&logoColor=61afef" 
-         alt="Telegram Badge" style="margin: 0 10px;"/>
+         alt="Telegram Badge" style="margin: 20px;"/>
   </a>
   <a href="mailto:dragonfartune@gmail.com">
     <img src="https://img.shields.io/badge/Email-282c34?style=for-the-badge&logo=gmail&logoColor=c678dd" 
-         alt="Email Badge" style="margin: 0 10px;"/>
+         alt="Email Badge" style="margin: 20px;"/>
   </a>
 </div>
 
@@ -71,13 +71,13 @@
 ## 📬 Socials
 
 <div  style="margin: 20px;">
-  <a href="mailto:dragonfartune@gmail.com" style="margin: 15px;">
+  <a href="mailto:dragonfartune@gmail.com" style="margin: 20px;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Email"/>
   </a>
-  <a href="https://github.com/DragonFortune" style="margin: 15px;">
+  <a href="https://github.com/DragonFortune" style="margin: 20px;">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="40" title="GitHub"/>
   </a>
-  <a href="https://t.me/morelia_carinata" style="margin: 15px;">
+  <a href="https://t.me/morelia_carinata" style="margin: 20px;">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" title="Telegram"/>
   </a>
 </div>
