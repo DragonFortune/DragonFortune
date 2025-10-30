@@ -29,39 +29,32 @@
 
 ## 🎯 About me
 
----
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div>
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+      <li>🌎 I’m from Russia</li>
+      <li>💡 Love programming and gaming</li>
+      <li>🧠 Learning new practices, libraries and frameworks</li>
+      <li>🌱 Strive for a clean architecture and high-quality code</li>
+    </ul>
+  </div>
 
-<table>
-  <tr>
-    <td style="padding-left:20px; vertical-align:top;">
-      <ul>
-        <li>🌎 I’m from Russia</li>
-        <li>💡 Love programming and gaming</li>
-        <li>🧠 Learning new practices, libraries and frameworks</li>
-        <li>🌱 Strive for a clean architecture and high-quality code</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
-    </td>
-  </tr>
-</table>
+[//]: # (  <div>)
+
+[//]: # (    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>)
+
+[//]: # (  </div>)
+</div>
 
 
 
 ## 📈 Statistics
-
----
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DragonFortune&theme=onedark" alt="GitHub Streak"/>
 </div>
 
 ## 🧰 Technologies and tools
-
----
-
-
 
 <p align="center">
   <div align="center" style="margin-top: 20px; background-color:#282c34; border: 2px solid #f8f8f2; border-radius: 12px; ">
@@ -77,9 +70,7 @@
 
 ## 📬 Socials
 
----
-
-<div  style="margin-top: 20px;">
+<div  style="margin: 20px;">
   <a href="mailto:dragonfartune@gmail.com" style="margin: 15px;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Email"/>
   </a>
