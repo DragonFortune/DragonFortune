@@ -31,19 +31,21 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div>
-    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-      <li>🌎 I’m from Russia</li>
-      <li>💡 Love programming and gaming</li>
-      <li>🧠 Learning new practices, libraries and frameworks</li>
-      <li>🌱 Strive for a clean architecture and high-quality code</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding-left:20px; vertical-align:top;">
+      <ul>
+        <li>🌎 I’m from Russia</li>
+        <li>💡 Love programming and gaming</li>
+        <li>🧠 Learning new practices, libraries and frameworks</li>
+        <li>🌱 Strive for a clean architecture and high-quality code</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNscDVjeTd3Y2RpcDZiajlianZ0bWhzZDhmZmJxM2Y2bjE5ZG50dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FIy4ImEiRcfVFqvJd/giphy.gif" width="200" alt=""/>
+    </td>
+  </tr>
+</table>
 
 
 
